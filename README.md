@@ -34,7 +34,7 @@ configure desired help topics
 <img src="s/s1.png">
 </p>
 <p>
-download the basic instalation packet
+Page to configure roles
 </p>
 <p>
 <img src="s/s2.png">
