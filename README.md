@@ -31,10 +31,23 @@ configure desired help topics
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="work/yes.png">
+<img src="s/s1.png">
 </p>
 <p>
 download the basic instalation packet
+</p>
+<p>
+<img src="s/s2.png">
+</p>
+<p>
+
+  <img src="s/s3.png">
+</p>
+<p>
+<img src="s/s4.png">
+</p>
+<p>
+<img src="s/s5.png">
 </p>
 
 
