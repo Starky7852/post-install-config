@@ -34,20 +34,23 @@ configure desired help topics
 <img src="s/s1.png">
 </p>
 <p>
-Page to configure roles
+Page to configure new agents
 </p>
 <p>
 <img src="s/s2.png">
 </p>
 <p>
-
+page to configure departments
   <img src="s/s3.png">
 </p>
 <p>
-<img src="s/s4.png">
+Add new Agents
+  <img src="s/s4.png">
 </p>
 <p>
+SLA plan
 <img src="s/s5.png">
 </p>
+Help topics
 
 
